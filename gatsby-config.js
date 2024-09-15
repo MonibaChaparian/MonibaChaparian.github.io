@@ -15,8 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/moniba-chaparian/`,
     email: 'Monibachaparian@gmail.com',  // Add your email here
-    cv: 'https://drive.google.com/drive/folders/1ppMCuqtj_ZfZ5u9TYjy6CLnXvrOhdY7-?usp=sharing',  // Add the Google Drive link to your CV
-    resume: 'https://drive.google.com/drive/folders/191KY6BAEGi1m5doHz2OsagQHAo5pQAib?usp=sharing',
+    CV: 'https://drive.google.com/drive/folders/1ppMCuqtj_ZfZ5u9TYjy6CLnXvrOhdY7-?usp=sharing',  // Add the Google Drive link to your CV
+    Resume: 'https://drive.google.com/drive/folders/191KY6BAEGi1m5doHz2OsagQHAo5pQAib?usp=sharing',
     // publications: 'Your Publications Link', 
     // Content of the About Me section
     about: `Software Engineer with a strong background in machine learning, computer vision, and UI/UX design. Adept at building intuitive user interfaces and developing intelligent systems that leverage advanced machine learning techniques. Passionate about exploring the potential of Large Language Models (LLMs) and enthusiastic about working with the Java programming language to create innovative, scalable solutions. Eager to apply technical expertise to solve complex problems and contribute to impactful projects.`,

@@ -50,7 +50,6 @@ export const pageQuery = graphql`
         email
         CV
         Resume
-        
         projects {
           name
           description
